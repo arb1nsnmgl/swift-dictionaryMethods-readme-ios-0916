@@ -149,3 +149,7 @@ let allTheMoons = Array(planetsAndTheirMoons.values)
 for numberOfMoons in planetsAndTheirMoons.values {
     print(numberOfMoons)
 }
+
+for i in movies.keys {
+    print(i)
+}
